@@ -7,5 +7,17 @@ name = "aleidibio"
 version = "0.1.0"
 
 [[package]]
+name = "cutinline"
+version = "0.1.0"
+
+[[package]]
+name = "hello"
+version = "0.1.0"
+
+[[package]]
+name = "twostones"
+version = "0.1.0"
+
+[[package]]
 name = "velkomin"
 version = "0.1.0"
